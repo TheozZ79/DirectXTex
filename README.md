@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/microsoft/DirectXTex)
+
 ![DirectX Logo](https://github.com/Microsoft/DirectXTex/wiki/X_jpg.jpg)
 
 # DirectXTex texture processing library
